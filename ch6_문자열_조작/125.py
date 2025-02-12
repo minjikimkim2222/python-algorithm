@@ -10,13 +10,11 @@ class Solution:
 
         for s_char in s:
             if s_char.isalnum():
-               s_remove_not_alnum += (s_char)
+               s_remove_not_alnum += s_char
             else:
                 continue
 
         s_to_upper = s_remove_not_alnum.upper()
-
-        print(s_to_upper)
 
         mid_index = len(s_to_upper) // 2
         str_len = len(s_to_upper) - 1
