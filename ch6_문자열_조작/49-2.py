@@ -31,3 +31,13 @@ for key, value in scores.items():
 # key : Alice, value : 75
 # key : Bob, value : 92
 # key : Charlie, value : 78
+
+lst = [3,1,2]
+lst.sort()
+print(lst)
+lst.sort(reverse = True)
+print(lst)
+
+lst = [3,1,2]
+print(sorted(lst))
+print(sorted(lst, reverse=True))
