@@ -15,14 +15,14 @@ class Solution:
     def productExceptSelf(self, nums: list[int]) -> list[int]:
         result = []
 
-        for i in nums:
+        for i in range(0, len(nums)):
             value = 1
-            for j in nums:
+            for j in range(0, len(nums)):
                 # 자기자신일 경우, continue
                 if i == j:
                     continue
                 else: # 자기자신을 제외한 원소의 누적곱
-                    value = value * j
+                    value = value * nums[j]
             result.append(value)
 
 
