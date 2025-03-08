@@ -20,7 +20,7 @@
     # 알고리즘 - 전가산기 방식 응용
 
 
-# 시간복잡도 :
+# 시간복잡도 : O(n)
 
 from typing import Optional
 
