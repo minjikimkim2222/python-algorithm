@@ -34,7 +34,7 @@ class Solution:
         odd_head = odd # 리턴할 홀수번째 노드의 첫 노드
 
         # 반복문
-        while even and even.next: # (일단 조건식 없음)
+        while even and even.next:
             # 1) 홀수 정렬 : 1 -> 3
             odd.next = even.next
             odd = odd.next
