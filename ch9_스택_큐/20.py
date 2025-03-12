@@ -14,7 +14,7 @@
 # 자료구조, 알고리즘
     # 자료구조 - 스택의 LIFO ; 왜냐면 닫는 괄호를 만났을 때, 여는 괄호의 가장 최근 것을 비교하기 때문
 
-# 시간복잡도
+# 시간복잡도 - O(n)
 
 class Solution:
     def isValid(self, s: str) -> bool:
