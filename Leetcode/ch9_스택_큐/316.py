@@ -35,7 +35,7 @@ class Solution:
             while stack and char < stack[-1] and counter[stack[-1]] > 0:
                 removed_data = stack.pop()
                 in_stack_without_duplicate.remove(removed_data)
-
+ls
 
             # 중복이 아닌 문자는 항상 넣음
             stack.append(char)

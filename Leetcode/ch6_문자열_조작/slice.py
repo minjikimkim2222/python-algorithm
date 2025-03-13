@@ -13,3 +13,6 @@ print(str[-2:])
 print(str[::1])
 print(str[::-1])
 print(str[::2])
+
+str = "12345"
+print(f'str[-1] :: {str[-1]}')
