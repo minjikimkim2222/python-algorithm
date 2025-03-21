@@ -1,6 +1,6 @@
 # Python Algorithm Interview - 문제 풀이
 
-해당 코드는 **[파이썬 알고리즘 인터뷰](https://example-link-to-book.com)** 책의 문제 풀이 및 프로그래머스 sql 문제 풀이 모음입니다.
+해당 코드는 **[파이썬 알고리즘 인터뷰]** 책의 문제 풀이 및 **프로그래머스 sql 문제** 풀이 모음입니다.
 
 <br>
 
