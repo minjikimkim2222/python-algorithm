@@ -1,6 +1,6 @@
 # Python Algorithm Interview - 문제 풀이
 
-해당 코드는 **[파이썬 알고리즘 인터뷰](https://example-link-to-book.com)** 책의 문제 풀이 코드입니다.
+해당 코드는 **[파이썬 알고리즘 인터뷰](https://example-link-to-book.com)** 책의 문제 풀이 및 프로그래머스 sql 문제 풀이 모음입니다.
 
 <br>
 
@@ -25,7 +25,7 @@
 ## 💻 사용된 알고리즘 및 자료구조 (진행중, 상시 추가)
 - 파이썬 제공 STL 학습 : str, list, dict, set
 - 선형 자료구조
-   - 배열, 연결리스트, 스택/큐
+   - 배열, 연결리스트, 스택/큐, 데크
 
 
 
