@@ -26,4 +26,4 @@ def dfs(start_v):
     return discovered
 
 output = dfs(1)
-print(f'output :: {output}')
+print(f'output :: {output}') # [1, 4, 3, 5, 7, 6, 2]
