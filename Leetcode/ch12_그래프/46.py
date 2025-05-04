@@ -23,7 +23,7 @@ class Solution:
                 return
 
             # 2. 재귀 호출 부분
-            for num in nums: # num : 1, 2, 3
+            for num in nums: # num : 1, 2, 3ㅛ
                 if num not in used:
                     path.append(num)
                     used.add(num)
